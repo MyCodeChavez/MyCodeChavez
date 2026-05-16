@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+que+despega+%F0%9F%9A%80;Fullstack+con+TypeScript%2C+React+y+Node.js;Construyendo+productos+robustos+y+r%C3%A1pidos" alt="Typing SVG" />
 </div>
 
-# Hola, soy MyCodeChavez 🚀
+# Hi, I'm Brayni Chavez 🚀
 
 [![Followers](https://img.shields.io/github/followers/MyCodeChavez?style=social)](https://github.com/MyCodeChavez?tab=followers)
 [![Stars](https://img.shields.io/github/stars/MyCodeChavez?style=social)](https://github.com/MyCodeChavez?tab=stars)
