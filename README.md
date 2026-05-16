@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+que+despega+%F0%9F%9A%80;Fullstack+con+TypeScript%2C+React+y+Node.js;Construyendo+productos+robustos+y+r%C3%A1pidos" alt="Typing SVG" />
 </div>
 
-# Hi , I'm Brayni Chavez 🚀
+# Hola, soy MyCodeChavez 🚀
 
-[![Followers](https://img.shields.io/github/followers/Brayni1204?style=social)](https://github.com/Brayni1204?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Brayni1204?style=social)](https://github.com/Brayni1204?tab=stars)
-![Profile Views](https://komarev.com/ghpvc/?username=Brayni1204&style=for-the-badge&color=0e75b6)
+[![Followers](https://img.shields.io/github/followers/MyCodeChavez?style=social)](https://github.com/MyCodeChavez?tab=followers)
+[![Stars](https://img.shields.io/github/stars/MyCodeChavez?style=social)](https://github.com/MyCodeChavez?tab=stars)
+![Profile Views](https://komarev.com/ghpvc/?username=MyCodeChavez&style=for-the-badge&color=0e75b6)
 
 ## Lo que hago
 - Diseño y desarrollo sistemas productivos y escalables.
@@ -29,25 +29,25 @@
 
 ## Proyectos destacados
 - Vet Clinic Management • gestión veterinaria con TypeScript  
-  https://github.com/Brayni1204/vet-clinic-management
+  https://github.com/MyCodeChavez/vet-clinic-management
 - Multi‑Tenant Vet • arquitectura multi‑tenant para clínicas  
-  https://github.com/Brayni1204/multi-tenant-vet
+  https://github.com/MyCodeChavez/multi-tenant-vet
 - WebJugos • front con Blade/Laravel para catálogo de productos  
-  https://github.com/Brayni1204/WebJugos
+  https://github.com/MyCodeChavez/WebJugos
 - WebSistemaJugos‑React • interfaz moderna en React  
-  https://github.com/Brayni1204/WebSistemaJugos-react
+  https://github.com/MyCodeChavez/WebSistemaJugos-react
 
 ## Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayni1204&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayni1204&layout=compact&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=Brayni1204&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MyCodeChavez&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyCodeChavez&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=MyCodeChavez&theme=radical&hide_border=true" height="160" />
 </div>
 
 ## Logros y actividad
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brayni1204&theme=radical&no-frame=true&row=1&column=7" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brayni1204&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MyCodeChavez&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MyCodeChavez&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ## Tech Highlights
@@ -64,14 +64,14 @@
 - Mejorar DX: monorepo, tooling y automatización.
 
 ## Conecta conmigo
-- Perfil: https://github.com/Brayni1204
+- Perfil: https://github.com/MyCodeChavez
 - Abre un issue en cualquiera de mis repos para colaborar.
 <p>
-  <a href="https://github.com/Brayni1204">
+  <a href="https://github.com/MyCodeChavez">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 Visitas al perfil  
-![Visitas](https://komarev.com/ghpvc/?username=Brayni1204&label=Visitas&style=flat-square&color=brightgreen)
+![Visitas](https://komarev.com/ghpvc/?username=MyCodeChavez&label=Visitas&style=flat-square&color=brightgreen)
