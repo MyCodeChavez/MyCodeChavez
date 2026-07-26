@@ -4,9 +4,9 @@
 
 # Hi, I'm Brayni Chavez 🚀
 
-[![Followers](https://img.shields.io/github/followers/MyCodeChavez?style=social)](https://github.com/MyCodeChavez?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MyCodeChavez?style=social)](https://github.com/MyCodeChavez?tab=stars)
-![Profile Views](https://komarev.com/ghpvc/?username=MyCodeChavez&style=for-the-badge&color=0e75b6)
+[![Followers](https://img.shields.io/github/followers/Code-Chavez?style=social)](https://github.com/Code-Chavez?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Code-Chavez?style=social)](https://github.com/MyCodeChavez?tab=stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Code-Chavez&style=for-the-badge&color=0e75b6)
 
 ## Lo que hago
 - Diseño y desarrollo sistemas productivos y escalables.
@@ -29,25 +29,25 @@
 
 ## Proyectos destacados
 - Vet Clinic Management • gestión veterinaria con TypeScript  
-  https://github.com/MyCodeChavez/vet-clinic-management
+  https://github.com/Code-Chavez/vet-clinic-management
 - Multi‑Tenant Vet • arquitectura multi‑tenant para clínicas  
-  https://github.com/MyCodeChavez/multi-tenant-vet
+  https://github.com/Code-Chavez/multi-tenant-vet
 - WebJugos • front con Blade/Laravel para catálogo de productos  
-  https://github.com/MyCodeChavez/WebJugos
+  https://github.com/Code-Chavez/WebJugos
 - WebSistemaJugos‑React • interfaz moderna en React  
-  https://github.com/MyCodeChavez/WebSistemaJugos-react
+  https://github.com/Code-Chavez/WebSistemaJugos-react
 
 ## Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyCodeChavez&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyCodeChavez&layout=compact&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=MyCodeChavez&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Chavez&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Chavez&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=Code-Chavez&theme=radical&hide_border=true" height="160" />
 </div>
 
 ## Logros y actividad
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MyCodeChavez&theme=radical&no-frame=true&row=1&column=7" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MyCodeChavez&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-Chavez&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Chavez&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ## Tech Highlights
@@ -64,14 +64,14 @@
 - Mejorar DX: monorepo, tooling y automatización.
 
 ## Conecta conmigo
-- Perfil: https://github.com/MyCodeChavez
+- Perfil: https://github.com/Code-Chavez
 - Abre un issue en cualquiera de mis repos para colaborar.
 <p>
-  <a href="https://github.com/MyCodeChavez">
+  <a href="https://github.com/Code-Chavez">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 Visitas al perfil  
-![Visitas](https://komarev.com/ghpvc/?username=MyCodeChavez&label=Visitas&style=flat-square&color=brightgreen)
+![Visitas](https://komarev.com/ghpvc/?username=Code-Chavez&label=Visitas&style=flat-square&color=brightgreen)
