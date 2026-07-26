@@ -39,8 +39,7 @@
 
 ## Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Chavez&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Chavez&layout=compact&theme=radical&hide_border=true" height="160" />
+  
   <img src="https://streak-stats.demolab.com/?user=Code-Chavez&theme=radical&hide_border=true" height="160" />
 </div>
 
